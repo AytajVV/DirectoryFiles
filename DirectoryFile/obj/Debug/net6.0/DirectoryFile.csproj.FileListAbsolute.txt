@@ -1,0 +1,15 @@
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\bin\Debug\net6.0\DirectoryFile.exe
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\bin\Debug\net6.0\DirectoryFile.deps.json
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\bin\Debug\net6.0\DirectoryFile.runtimeconfig.json
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\bin\Debug\net6.0\DirectoryFile.dll
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\bin\Debug\net6.0\DirectoryFile.pdb
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.csproj.AssemblyReference.cache
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.AssemblyInfoInputs.cache
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.AssemblyInfo.cs
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.csproj.CoreCompileInputs.cache
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.dll
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\refint\DirectoryFile.dll
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.pdb
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\DirectoryFile.genruntimeconfig.cache
+C:\Users\Orbit Computers\Desktop\DirectoryFile\DirectoryFile\obj\Debug\net6.0\ref\DirectoryFile.dll
